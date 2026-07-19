@@ -1,0 +1,12 @@
+node_modules/
+.DS_Store
+*.log
+.vscode/
+.env
+backend/qdrant_storage/
+backend/test_qdrant/
+*.sqlite
+*.db
+__pycache__/
+venv/
+

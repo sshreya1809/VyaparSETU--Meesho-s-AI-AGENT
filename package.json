@@ -1,0 +1,8 @@
+{
+  "name": "vyaparsetu",
+  "version": "1.0.0",
+  "description": "VyaparSETU 2.0",
+  "scripts": {
+    "dev": "npx serve -l 3000 ."
+  }
+}
